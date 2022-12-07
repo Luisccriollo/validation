@@ -1,2 +1,2 @@
 pwd=`pwd`
-ll $pwd
+ls -la $pwd
