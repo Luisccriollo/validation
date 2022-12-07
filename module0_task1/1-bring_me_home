@@ -1,1 +1,1 @@
-echo "/root"
+cd $HOME
